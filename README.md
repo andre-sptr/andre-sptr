@@ -43,7 +43,6 @@ Berikut adalah teknologi dan perangkat yang saya kuasai:
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black" alt="React">
-      
     </td>
   </tr>
   <tr>
