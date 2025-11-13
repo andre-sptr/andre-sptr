@@ -37,11 +37,13 @@ Berikut adalah teknologi dan perangkat yang saya kuasai:
       <strong>Pengembangan Web</strong>
     </td>
     <td>
+      <img src="https://img.shields.io/badge/CodeIgniter_4-%23EF4223?logo=codeigniter&logoColor=white" alt="CodeIgniter 4">
       <img src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white" alt="CSS3">
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black" alt="React">
+      
     </td>
   </tr>
   <tr>
@@ -49,9 +51,9 @@ Berikut adalah teknologi dan perangkat yang saya kuasai:
       <strong>IoT & Hardware</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Arduino-%2300979D?logo=arduino&logoColor=white" alt="Arduino">
       <img src="https://img.shields.io/badge/Raspberry_Pi-%23A22846?logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
       <img src="https://img.shields.io/badge/ESP32-%23E7352C?logo=espressif&logoColor=white" alt="ESP32">
+      <img src="https://img.shields.io/badge/Arduino-%2300979D?logo=arduino&logoColor=white" alt="Arduino">
       <img src="https://img.shields.io/badge/MQTT-%23660066?logo=mqtt&logoColor=white" alt="MQTT">
     </td>
   </tr>
