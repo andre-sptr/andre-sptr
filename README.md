@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0dHFnMWp2bWliazF0NHh4MDVqZ2YwdjQ2cWF0eWo5MGZ0cGZkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="60">
-</p>
-
 <h1 align="center">
   Halo, saya Andre Saputra
 </h1>
