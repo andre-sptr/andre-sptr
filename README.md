@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=29AAE2&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Andre+Saputra+👋;Electronics+Engineering+Fresh+Graduate;Network+Engineer+%7C+Web+Developer;IoT+Enthusiast&v=1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=29AAE2&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Andre+Saputra+👋;Electronics+Engineering+Fresh+Graduate;Network+Engineer+%7C+Web+Developer;IoT+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -57,10 +57,10 @@
 ### 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andre-sptr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Statistics" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andre-sptr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="GitHub Statistics" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andre-sptr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-sptr&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-sptr&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" width="48%" />
 </div>
 
 ---
