@@ -10,7 +10,7 @@
 
 <div align="center">
   <p>
-    I am an <strong>Electronics Engineering Fresh Graduate</strong> specializing in <strong>Computer Networking</strong>. I am highly passionate about designing efficient network infrastructures, building innovative <strong>Internet of Things (IoT)</strong> solutions, and developing <strong>web applications</strong> from end-to-end.
+    I am an <strong>Electronics Telecommunication Engineering Fresh Graduate</strong> specializing in <strong>Computer Networking</strong>. I am highly passionate about designing efficient network infrastructures, building innovative <strong>Internet of Things (IoT)</strong> solutions, and developing <strong>web applications</strong> from end-to-end.
   </p>
 </div>
 
