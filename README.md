@@ -15,8 +15,8 @@ I work around the intersection of field operations and software: turning repeate
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [bot-olt](https://github.com/andre-sptr/bot-olt) | Python automation scripts for OLT and telecom operations reporting, reminders, and workflow mirroring. | Python |
-| [dashboard-projects](https://github.com/andre-sptr/dashboard-projects) | Dashboard for tracking Sumbagteng telecom project SLA status, reporting, maps, and real-time monitoring. | Next.js, TypeScript, SQLite |
+| [olt-ops-automation](https://github.com/andre-sptr/olt-ops-automation) | Python automation scripts for OLT and telecom operations reporting, reminders, and workflow mirroring. | Python |
+| [sumbagteng-project-dashboard](https://github.com/andre-sptr/sumbagteng-project-dashboard) | Dashboard for tracking Sumbagteng telecom project SLA status, reporting, maps, and real-time monitoring. | Next.js, TypeScript, SQLite |
 | [my-tiket](https://github.com/andre-sptr/my-tiket) | Flight fare monitoring app with Duffel API, LCC scraping, PostgreSQL, Redis, and web push notifications. | TypeScript, Node.js, PostgreSQL, Redis |
 | [duitku](https://github.com/andre-sptr/duitku) | Personal finance tracker with mobile/web frontend, API backend, reminders, and charts. | Expo, FastAPI, MongoDB |
 | [portfolio](https://github.com/andre-sptr/portfolio) | Personal portfolio website for selected network, IoT, and web projects. | React, Vite, TypeScript, Tailwind CSS |
@@ -24,9 +24,11 @@ I work around the intersection of field operations and software: turning repeate
 
 ## Additional Work
 
-- [my-sawit](https://github.com/andre-sptr/my-sawit) - palm oil management and reporting web app.
+- [network-topology-dashboard](https://github.com/andre-sptr/network-topology-dashboard) - interactive network topology dashboard.
 - [pdf-tools](https://github.com/andre-sptr/pdf-tools) - full-stack PDF utility app.
-- [ai](https://github.com/andre-sptr/ai) - AI chat assistant prototype with voice, file upload, and tool integration.
+- [ai-chat-assistant](https://github.com/andre-sptr/ai-chat-assistant) - AI chat assistant prototype with voice, file upload, and tool integration.
+- [cloud-file-manager](https://github.com/andre-sptr/cloud-file-manager) - cloud file manager for upload, organization, and sharing workflows.
+- [whatsapp-ai-assistant](https://github.com/andre-sptr/whatsapp-ai-assistant) - WhatsApp automation assistant with WAHA and AI response workflows.
 
 ## Technical Stack
 
@@ -34,9 +36,9 @@ I work around the intersection of field operations and software: turning repeate
 
 **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, Expo.
 
-**Backend and data:** FastAPI, Node.js, Prisma, PostgreSQL, MongoDB, SQLite, Redis.
+**Backend and data:** Node.js, FastAPI, Prisma, SQLite, PostgreSQL, Redis, MongoDB.
 
-**Tools:** GitHub, PM2, Nginx, Playwright, Supabase, Appwrite, Google APIs.
+**Operations:** GitHub Actions, deployment documentation, scheduled jobs, bot workflows.
 
 ## Contact
 
