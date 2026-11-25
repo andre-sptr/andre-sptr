@@ -1,105 +1,61 @@
-# Hi, I'm Andre Saputra 👋
+# Andre Saputra
 
-### Web Development | Workflow Automation | Software Solutions
+**RF & Network Engineer | Web Applications & Workflow Automation**
 
-I'm an Electronics and Telecommunications Engineering graduate with hands-on experience in network operations, technical troubleshooting, and STEM education.
+Based in Jakarta Selatan, Indonesia. I graduated with a Bachelor of Applied Science in Electronics and Telecommunication Engineering from Politeknik Caltex Riau and work as an Engineer at PT Nexcom Indonesia supporting radio trunking systems, Radio Base Station maintenance, provisioning, and NOC monitoring.
 
-I enjoy building practical software solutions that simplify processes and solve real-world problems. My current focus is on web application development and workflow automation, using modern technologies to create responsive applications, operational dashboards, API integrations, and automation tools.
+Outside field and network operations, I build browser-based RF engineering tools, self-hosted web services, operational dashboards, and automation scripts.
 
-My engineering background has shaped the way I approach development: understanding the problem, designing efficient solutions, and continuously improving how systems work.
+## Projects
 
----
+### RF Engineering & 3D Tools
 
-## 🎯 What I Do
+| Project | Description | Live | Stack |
+| --- | --- | --- | --- |
+| [LinkSight RF](https://github.com/andre-sptr/rf-link-planner) | Interactive RF link budget, repeater relay, and Fresnel zone planner over 3D terrain with SRTM profiling and PDF site survey reports. | [rf.andresptr.site](https://rf.andresptr.site) | React, TypeScript, MapLibre GL, Fastify, SQLite |
+| [AntennaLab 3D](https://github.com/andre-sptr/3d-antenna) | Interactive 3D far-field antenna radiation pattern and RF propagation lab with six analytical models, E/H-plane polar cuts, and heatmaps. | [antenna.andresptr.site](https://antenna.andresptr.site) | React, TypeScript, Three.js, React Three Fiber, Vite |
+| [Over the Air](https://github.com/andre-sptr/over-the-air) | Interactive 3D RF scrollytelling tracing a two-way radio signal from push-to-talk to hilltop repeater reception with GLSL shaders and Web Audio. | [radio.andresptr.site](https://radio.andresptr.site) | React, TypeScript, Three.js, React Three Fiber, Vite |
 
-- **Web Development** — Building responsive websites, web applications, dashboards, and interactive user interfaces.
-- **Workflow Automation** — Creating Python scripts, scheduled tasks, reporting systems, and automated workflows.
-- **AI Integration** — Exploring practical AI implementation and intelligent automation for everyday processes.
+### AI Platforms & Self-Hosted Apps
 
----
+| Project | Description | Live | Stack |
+| --- | --- | --- | --- |
+| [Bubu AI](https://github.com/andre-sptr/bubu-ai) | Multimodal WhatsApp AI agent with local speech, OCR, and document processing, paired with a real-time Three.js 3D pipeline observatory. | [waha.andresptr.site](https://waha.andresptr.site) | Node.js, Fastify, SQLite, WAHA, Three.js |
+| [AET AI Platform](https://github.com/andre-sptr/aet-ai-platform) | Web platform and multi-mode AI workspace for AET PCR with adaptive model routing and document processing. | [aetpcr.site](https://aetpcr.site) | Next.js, TypeScript, Fastify, Prisma, PostgreSQL |
+| [PDF Workbench](https://github.com/andre-sptr/pdf-workbench) | Self-hosted PDF toolkit with 18 local utilities for merging, splitting, compressing, converting, signing, and OCR. | [pdf.andresptr.site](https://pdf.andresptr.site) | React, TypeScript, Vite, Node.js, Express |
+| [VPS File Hub](https://github.com/andre-sptr/cloud-file-manager) | Self-hosted file storage and workspace manager with nested folders, batch uploads, JWT/Google sign-in, and opt-in public share links. | [cloud.andresptr.site](https://cloud.andresptr.site) | React, TypeScript, Vite, Express, SQLite |
+| [Game Co-Op](https://github.com/andre-sptr/game-coop) | Self-hosted retro gaming and duo co-op Netplay portal running RomM and EmulatorJS with Docker Compose and OpenResty configs. | [play.andresptr.site](https://play.andresptr.site) | Docker, RomM, EmulatorJS, PostgreSQL, OpenResty |
 
-## 🚀 Featured Projects
+### Operations, Automation & Web Portals
 
-### 🌐 Web Development
+| Project | Description | Live | Stack |
+| --- | --- | --- | --- |
+| [REKAPAL](https://github.com/andre-sptr/my-sawit) | Palm oil operations workspace for tracking harvests, maintenance, expenses, and sales per lot, with PDF invoices and Telegram notifications. | [rekapal.site](https://rekapal.site) | Next.js, TypeScript, Prisma, SQLite |
+| [Portfolio](https://github.com/andre-sptr/portfolio) | Personal portfolio site for Andre Saputra presenting RF engineering tools, web applications, and a custom WebGL shader backdrop. | [andresptr.site](https://andresptr.site) | Next.js, React, TypeScript, Tailwind CSS, WebGL |
+| [Sumbagteng Ops Dashboard](https://github.com/andre-sptr/sumbagteng-ops-dashboard) | Operations dashboard for Sumbagteng telecom project monitoring, SLA tracking, Leaflet map views, and Socket.IO updates. | - | Next.js, TypeScript, SQLite, Leaflet, Socket.IO |
+| [SBT Connect](https://github.com/andre-sptr/sbt-connect) | Operations dashboard and bot control center for scheduled cron workflows and automated tasks with Playwright. | - | Next.js, TypeScript, Prisma, Node Cron, Playwright |
+| [OLT Ops Automation](https://github.com/andre-sptr/olt-ops-automation) | Collection of Python automation scripts for OLT and telecom network operations, recurring reports, reminders, and data mirroring. | - | Python |
+| [MAN IC Siak 10th Anniversary](https://github.com/andre-sptr/man-ic-siak-10th-anniversary) | Official web portal for MAN Insan Cendekia Siak's 10th anniversary celebration with event schedules and competition registration. | - | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase |
 
-| Project | Description | Technologies |
-|---|---|---|
-| [SBT Connect](https://github.com/andre-sptr/sbt-connect) | Operations dashboard with scheduled jobs, authentication, and automation workflows. | Next.js, TypeScript, Prisma |
-| [Sumbagteng Project Dashboard](https://github.com/andre-sptr/sumbagteng-project-dashboard) | Project monitoring dashboard with SLA tracking, reporting, maps, and operational visibility. | Next.js, TypeScript, SQLite |
-| [Network Topology Dashboard](https://github.com/andre-sptr/network-topology-dashboard) | Interactive network visualization with 2D/3D topology and backend services. | React, TypeScript, React Flow, Three.js, Express |
-| [My Portfolio](https://github.com/andre-sptr/portfolio) | Personal portfolio website showcasing selected web development and automation projects. | React, Vite, TypeScript, Tailwind CSS |
-| [My Tiket](https://github.com/andre-sptr/my-tiket) | Flight fare monitoring application with API integration, scraping, and notifications. | TypeScript, Node.js, PostgreSQL, Redis |
+## Tech Stack
 
-### ⚙️ Automation & Software Tools
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Shell |
+| Frontend & 3D | Next.js, React, Vite, Tailwind CSS, Three.js, React Three Fiber, WebGL, MapLibre GL, Leaflet |
+| Backend & Data | Node.js, Fastify, Express, Prisma, PostgreSQL, SQLite |
+| Infrastructure & Automation | Docker, OpenResty, WAHA, Playwright, Node Cron |
 
-| Project | Description | Technologies |
-|---|---|---|
-| [OLT Ops Automation](https://github.com/andre-sptr/olt-ops-automation) | Python scripts for operational reporting, reminders, and repetitive workflow automation. | Python |
-| [WhatsApp AI Assistant](https://github.com/andre-sptr/whatsapp-ai-assistant) | AI-assisted WhatsApp automation and response workflow prototype. | WAHA, AI Integration |
-| [PDF Tools](https://github.com/andre-sptr/pdf-tools) | Web-based PDF utility application for document processing. | Full-stack Web Development |
+## Background
 
----
+- Engineer at PT Nexcom Indonesia (radio trunking infrastructure, Radio Base Station maintenance, provisioning, and NOC monitoring)
+- Operations Administrator at Telkom Infrastruktur Indonesia
+- Informatics Teacher and Robotics Coach at MAN Insan Cendekia Siak
+- Network Engineer Intern at PLN Icon Plus
+- Bachelor of Applied Science in Electronics and Telecommunication Engineering, Politeknik Caltex Riau
 
-## 🛠️ Tech Stack
+## Links
 
-### Frontend Development
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-
-### Backend Development
-- Node.js
-- Python
-- Prisma
-
-### Database & Data Management
-- PostgreSQL
-- SQLite
-- MongoDB
-
-### Automation & Development Tools
-- Python Automation
-- Scheduled Jobs
-- API Integration
-- Workflow Automation
-- Web Scraping
-
----
-
-## 🌱 Currently Exploring
-
-- Building scalable and maintainable web applications.
-- Advanced workflow automation and API integrations.
-- AI implementation in practical software solutions.
-- CI/CD, testing, and modern development workflows.
-
----
-
-## 🎓 Background
-
-**Education:**  
-Applied Bachelor's Degree in Electronics and Telecommunications Engineering  
-Politeknik Caltex Riau
-
-**Professional Experience:**
-- RF & Network Engineer — PT Nexcom Indonesia
-- Operations Administrator — Telkom Infrastruktur Indonesia
-- Informatics Teacher & Robotics Coach — MAN Insan Cendekia Siak
-- Network Engineer Intern — PLN Icon Plus
-
-My experience across engineering, operations, and education helps me approach software development from both technical and practical perspectives.
-
----
-
-## 🤝 Let's Connect
-
-- 🌐 **Portfolio:** [andresptr.site](https://andresptr.site)
-- 💼 **LinkedIn:** [Andre Saputra](https://www.linkedin.com/in/andre-sptr/)
-- 🐙 **GitHub:** [andre-sptr](https://github.com/andre-sptr)
-
-I'm always open to learning, collaborating, and building useful technology solutions.
-
----
-
-*Turning ideas into practical applications through web development and automation.*
+- Portfolio: [andresptr.site](https://andresptr.site)
+- LinkedIn: [linkedin.com/in/andre-sptr](https://www.linkedin.com/in/andre-sptr/)
+- GitHub: [github.com/andre-sptr](https://github.com/andre-sptr)
